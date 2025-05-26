@@ -7,7 +7,6 @@ BIN_DIR="$SCRIPT_DIR/bin"
 
 if [ ! -d "$WORKSPACE_DIR" ]; then
     mkdir -p "$WORKSPACE_DIR"
-else
 fi
 
 cd "$WORKSPACE_DIR"
