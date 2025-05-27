@@ -1,4 +1,3 @@
-
 # MotoG04_Termux_UnlockBootloader
 
 **Desbloqueie o Bootloader dos dispositivos Moto G04/G04S utilizando apenas outro celular Android com Termux e Cabo OTG, sem necessidade de computador.**
@@ -140,8 +139,8 @@ Este script é utilizado para **recuperar o Moto G04 brickado**, ou seja, quando
 
 Este projeto foi possível graças ao trabalho do desenvolvedor [**TomKing062**](https://github.com/TomKing062), criador das ferramentas utilizadas aqui.
 
-- Os binários foram **compilados e organizados por mim, [@gatesgsm](https://t.me/gatesgsm)**.
-- A autoria dos exploits e utilitários pertence a TomKing062.
+- Os programas foram **compilados e organizados por mim, [@gatesgsm](https://t.me/gatesgsm)**.
+- A autoria e o desenvolvimento pertence a TomKing062.
 
 ### **Repositórios originais:**
 
