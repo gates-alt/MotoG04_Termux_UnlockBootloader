@@ -145,8 +145,8 @@ Este projeto foi possível graças ao trabalho do desenvolvedor [**TomKing062**]
 
 ### **Repositórios originais:**
 
-- [TomKing062/spreadtrum_flash](https://github.com/TomKing062/spreadtrum_flash)  
-- [TomKing062/CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader)
+- [spreadtrum_flash](https://github.com/TomKing062/spreadtrum_flash)  
+- [CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader)
 
 ---
 
