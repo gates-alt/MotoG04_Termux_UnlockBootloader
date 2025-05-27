@@ -42,6 +42,13 @@ You will need:
   - [**Termux:API**](https://f-droid.org/en/packages/com.termux.api/)
 - An **OTG cable**
 - A **USB data cable** (USB-A to USB-C)
+- **Tweezers or other metal object (such as a paper clip) with two ends**
+
+Optional:
+
+- Suction cup
+- Plastic spatula
+(to remove the plastic cover)
 
 ---
 

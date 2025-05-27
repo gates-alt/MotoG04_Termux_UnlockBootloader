@@ -42,6 +42,13 @@ Você vai precisar de:
   - [**Termux:API**](https://f-droid.org/en/packages/com.termux.api/)
 - Um **cabo OTG**
 - Um **cabo de dados USB** (USB-A para USB-C)
+- **Pinça ou outro objeto metálico (como um clipe) de duas pontas**
+
+Opcional:
+
+- Ventosa
+- Espátula plástica
+(para remover a tampa)
 
 ---
 
